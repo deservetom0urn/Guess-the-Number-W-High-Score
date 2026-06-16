@@ -10,5 +10,3 @@ A CLI-based number guessing game (1–20) featuring a high score tracking system
 ### 📋 How to Run
 1. Create a `Datas.txt` file in the same folder, then enter a number on the second line (e.g., `99`).
 2. Run the command: `python main.py`
-
-Translated with DeepL.com (free version)
