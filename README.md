@@ -16,13 +16,3 @@ This is a simple command-line number guessing game built with Python. The player
 * Uses file handling to save and update the high score in `Datas.txt`
 * Provides feedback after every guess
 * Uses loops and conditional statements to control the game flow
-
-## ▶️ How to Run
-
-1. Create a file named `Datas.txt` in the same folder as the project.
-2. Add a number on the second line (for example, `99`) as the initial high score.
-3. Run the program using:
-
-```bash
-python main.py
-```
